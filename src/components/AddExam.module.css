@@ -1,0 +1,101 @@
+
+.formContainer {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f6f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .gridContainer {
+    padding: 40px 0px;
+  }
+  
+  .formTitle {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .textField {
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .textField .MuiOutlinedInput-root {
+    border-radius: 4px;
+  }
+  
+  .textField .MuiInputLabel-outlined {
+    color: #555;
+  }
+  
+  .textField .MuiInputBase-input {
+    padding: 12px 16px;
+  }
+  
+  .selectField .MuiSelect-root {
+    padding: 12px 16px;
+  }
+  
+  .button {
+    margin-top: 20px;
+  }
+  
+  .tableContainer {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-weight: bold;
+
+  }
+  
+  .tableTitle {
+    font-size: 1.5rem;
+    margin-bottom: 16px;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .table {
+    border-collapse: separate;
+    border-spacing: 0 8px;
+  }
+  
+  .tableCell {
+    padding: 16px;
+    font-size: 0.875rem;
+    color: #555;
+  }
+  
+  .tableHeadCell {
+    background-color: #f0f0f0;
+    font-weight: bold;
+  }
+  
+  .tableRow:hover {
+    background-color: #f9f9f9;
+  }
+  
+  .addButton {
+    margin-top: 20px;
+  }
+  
+  .addButton .MuiButton-root {
+    border-radius: 4px;
+    font-size: 0.875rem;
+    text-transform: none;
+  }
+  
+  .actionIcon {
+    color: #f44336;
+  }
+  
+  .actionIcon:hover {
+    opacity: 0.7;
+  }
+  
